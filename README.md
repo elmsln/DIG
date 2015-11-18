@@ -21,5 +21,6 @@ Example pot of discussion points / ideas to get us kicked off:
 - LiveCode - Producing HTML5 interactions that you own in a lite-programming language
 - On demand Accessibility registry - Dynamically delivering more accessible content / media to users based on needs
 - LQ - Live Question tool Eberly is developing
+- Flipping the LMS - Course centric "front-door", deep link into LMS ala paulhibbitts.com
 
 This is an open group, we are only as useful as the community we can foster. This is a starting point and always available for modification (hence git / markdown). The criteria above are open to modification and we will review the progress and vibe of this group on a quarterly basis to ensure we are still useful (if not, we do something else).
