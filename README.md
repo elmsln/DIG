@@ -11,8 +11,8 @@ This isn't just another meeting / group / tribe / committee, it's an action grou
 - DIG meetings held once a month, large group (proposed Mondays)
 - Developer DIG meetings held weekly as coworking sessions to tackle the big problems / ideas identified in large group (proposed Tuesdays)
 - Units still hold traditional developer / ID / team meetings, but these can be smaller in scope / more focused on purely internal matters
-- Lightening topics / ideas, anything that resonates we focus on
-- We are a collective of Markers that build solutions (when it makes sense)
+- Lightning topics / ideas, anything that resonates we focus on
+- We are a collective of Makers that build solutions (when it makes sense)
 - All creations are open source (GPLv2+)
 
 Example pot of discussion points / ideas to get us kicked off:
