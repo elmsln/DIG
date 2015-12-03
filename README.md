@@ -16,6 +16,7 @@ This isn't just another meeting / group / tribe / committee, it's an action grou
 - All creations are open source (GPLv2+)
 
 Example pot of discussion points / ideas to get us kicked off:
+- "Studio" - student community in the course with discussions around media
 - HAX - Envisioning a world without HTML
 - interactve self-checks / pop-up video - Using H5P to deliver
 - LiveCode - Producing HTML5 interactions that you own in a lite-programming language
@@ -23,6 +24,6 @@ Example pot of discussion points / ideas to get us kicked off:
 - LQ - Live Question tool Eberly is developing
 - Flipping the LMS - Course centric "front-door", deep link into LMS ala paulhibbitts.com
 - Poll Monday - Thinking Tuesday - Results Wednesday - glenn
-- Lab environments
+- Lab environments - How to do online labs
 
 This is an open group, we are only as useful as the community we can foster. This is a starting point and always available for modification (hence git / markdown). The criteria above are open to modification and we will review the progress and vibe of this group on a quarterly basis to ensure we are still useful (if not, we do something else).
