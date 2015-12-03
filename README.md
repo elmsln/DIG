@@ -12,6 +12,9 @@ This isn't just another meeting / group / tribe / committee, it's an action grou
 - Developer DIG meetings held weekly as coworking sessions to tackle the big problems / ideas identified in large group (proposed Tuesdays)
 - Units still hold traditional developer / ID / team meetings, but these can be smaller in scope / more focused on purely internal matters
 - Lightning topics / ideas, anything that resonates we focus on
+- When it makes sense, small group break outs after lightning talk to draw interfaces on whiteboards; 5 minutes max
+- Everyone presents their interface / Requirements / percieved needs and talked about from each proposed solution
+- Requirements gathered in this git repo so we know what people want built and how they thought might be the best way to do it
 - We are a collective of Makers that build solutions (when it makes sense)
 - All creations are open source (GPLv2+)
 
