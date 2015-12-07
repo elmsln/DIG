@@ -28,5 +28,7 @@ Example pot of discussion points / ideas to get us kicked off:
 - Flipping the LMS - Course centric "front-door", deep link into LMS ala paulhibbitts.com
 - Poll Monday - Thinking Tuesday - Results Wednesday - glenn
 - Lab environments - Creating authentic spaces where inquiry, collaboration, social constructivism, feedback are the focus of instruction/learning (for resident or online)
+- Portfolios
+- Online Program Hub (Online program community space and advising)
 
 This is an open group, we are only as useful as the community we can foster. This is a starting point and always available for modification (hence git / markdown). The criteria above are open to modification and we will review the progress and vibe of this group on a quarterly basis to ensure we are still useful (if not, we do something else).
