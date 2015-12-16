@@ -18,7 +18,7 @@ Attendence will be emailed as not to put that in version control; though boiling
 - Many artists, 3D animation, graphic artists and musicians
 - rather evenly split mix of job titles; developers, multimedia, instructional designers, managers
 
-Michael
+### Michael
 Live Question tool
 - annonymous in class discussion tool
 - TAs can up-vote items of interest
@@ -32,7 +32,7 @@ Requirements
 - social factors
 - drag and drop to / bubble up
 
-Renne
+### Renne
 Lions cage competition, shark tank kind of thing
 - Smeal business plan manager
 - students build out a business plan
@@ -45,7 +45,7 @@ Ideas from this
 - held back some of the "money" in order to force revision
 - encouraging sensitive competition is difficult
 
-Darryl
+### Darryl
 some 3D animations of molecules
 - interesting to make it more interactive / Unity integration
 - Marry Unity and ELMS for a virtual lab
@@ -54,7 +54,7 @@ feedback
 - webservices, send stuff in and out of the environment
 - playcanvas (website), fork people's projects and figure out what's wrong
 
-Katrina / Alex
+### Katrina / Alex
 SmealStream - Extemporaneous speaking
 - elevator pitch about product, speaking off the cuff
 - 2 min to look at prompt, 2 min to convince to buy product
@@ -69,11 +69,7 @@ Feedback
 - mixing and remixing music
 - international testing studies, rated in terms of proficency for passing at PSU
 
-Glenn
-E-Portfolios
-Evidence management for accredidation
-Case based learning
-Shiny / R Users group
+### Glenn
 Poll Monday, Thinking Tuesday, Results Wednessday
 - google forms
 - answer some questions, buy M&Ms at the store and count
@@ -86,7 +82,7 @@ Who's doing what, how are they doing, gradebook writing based on the practice pr
 - ability to write to a backend of some kind for tracking
 - Sounds like XAPI
 
-Carly
+### Carly
 Consistent style guide visually in elmsln
 - making them accessible
 - make it look great, elements within, standards to go by
@@ -94,7 +90,7 @@ Consistent style guide visually in elmsln
 - SVGs / accessibility
 - exlcude photos but could do line-art and dump straight from desktop software like inDesign
 
-Bob
+### Bob
 Working with H5P Transitioning over to Drupal site
 - wants to integrate with Canvas
 - may be difficult unless H5P has LTI support for the gradebook aspect of the spec
