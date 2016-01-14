@@ -45,7 +45,7 @@ Ideas from this
 - held back some of the "money" in order to force revision
 - encouraging sensitive competition is difficult
 
-### Darryl
+### Daryl
 some 3D animations of molecules
 - interesting to make it more interactive / Unity integration
 - Marry Unity and ELMS for a virtual lab
