@@ -32,8 +32,8 @@ Requirements
 - social factors
 - drag and drop to / bubble up
 
-### Renne
-Lions cage competition, shark tank kind of thing
+### Renee
+Lion's cage competition, shark tank kind of thing
 - Smeal business plan manager
 - students build out a business plan
 - students didn't want a leader board
