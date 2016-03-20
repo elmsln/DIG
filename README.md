@@ -32,3 +32,11 @@ Example pot of discussion points / ideas to get us kicked off:
 - Online Program Hub (Online program community space and advising)
 
 This is an open group, we are only as useful as the community we can foster. This is a starting point and always available for modification (hence git / markdown). The criteria above are open to modification and we will review the progress and vibe of this group on a quarterly basis to ensure we are still useful (if not, we do something else).
+
+Meetings
+
+Monday, March 28 12:15-3:30 pm 201 Chambers Building
+
+Monday, April 25 12:15-3:30 pm 201 Chambers Building
+
+Monday, May 23 12:15-3:30 pm - location TBD
