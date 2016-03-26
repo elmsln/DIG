@@ -7,9 +7,9 @@ Title: We are Makers; Let's create.
 - Make an account on http://h5p.org so we can get playing faster
 
 ## Optional
-- Bring an idea for the lightening round w/ something that can be shown if voted
+- Bring an idea for the lightning round w/ something that can be shown if voted
 
-## Open Lightening (30 min)
+## Open Lightning (30 min)
 - Show / talk / connect on what you've been working on; max 1 minute http://www.online-stopwatch.com/
 - The 2-3 things people want to SEE via most votes in real time
 
