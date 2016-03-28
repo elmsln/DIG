@@ -4,17 +4,12 @@ Title: We are Makers; Let's create.
 ## Requirements
 - Bring a laptop
 - Bring ideas for how you could increase engagement via stand alone interactions (examples: self checks, self directed activities)
-- Make an account on http://h5p.org so we can get playing faster
 
 ## Optional
-- Bring an idea for the lightning round w/ something that can be shown if voted
-
+Bring an idea for the lightning round w/ something that can be shown if voted
 ## Intro (2 min)
-
-- what we're here to do
-
+what we're here to do
 ## Open Lightning (~30 min)
-
 - Show / talk / connect on what you've been working on; max 1 minute http://www.online-stopwatch.com/
 - The 2-3 things people want to SEE via most votes in real time
 
@@ -35,5 +30,6 @@ Many in DIG and around PSU have been buzzing about a technology called H5P. Brya
 - Have an interactive item you can demonstrate in your current CMS / LMS context to take back to show others
 - Discuss how to address accessibility of things like this
 - Give the ELMSLN / other teams some guidelines / roadmap as to what to account for and examples
+
 ## Regroup (~20 min)
 Some show and tell of what was produced.
