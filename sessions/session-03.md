@@ -10,10 +10,14 @@ Title: We are Makers; Let's create.
 - Bring an idea for the lightning round w/ something that can be shown if voted
 
 ## Intro (2 min)
+
 - what we're here to do
+
 ## Open Lightning (~30 min)
+
 - Show / talk / connect on what you've been working on; max 1 minute http://www.online-stopwatch.com/
 - The 2-3 things people want to SEE via most votes in real time
+
 ## Break out topics (~1 hour)
 Break out topics are working groups within DIG that have emerged to work towards accomplishing tangible outcomes. If you'd like to propose one doing the open lightning round you are more then welcome to. These are two that have bubbled up from past sessions.
 ### OER / Open Curriculum specification
