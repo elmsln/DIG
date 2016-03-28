@@ -9,36 +9,27 @@ Title: We are Makers; Let's create.
 ## Optional
 - Bring an idea for the lightning round w/ something that can be shown if voted
 
-## Open Lightning (30 min)
+## Intro (2 min)
+- what we're here to do
+## Open Lightning (~30 min)
 - Show / talk / connect on what you've been working on; max 1 minute http://www.online-stopwatch.com/
 - The 2-3 things people want to SEE via most votes in real time
-
-## Special Topic - Git for content we all produce (30 min)
-We all have to manage content and flows of instruction; whether in Canvas, ANGEL, Drupal, ELMS, Plone, etc. The process surrounding creation and management of content is a big deal regardless of CMS.
-The process and workflows of managing content is what we'll explore; as well as how we could work towards more sustainable and sharable OER (to empower other makers).
-### See how people handle
-- multiple faculty
-- multiple versions / sections
-- management over time (semester to semester, branching, forking, etc)
-- multiple delivery mechanisms
-
+## Break out topics (~1 hour)
+Break out topics are working groups within DIG that have emerged to work towards accomplishing tangible outcomes. If you'd like to propose one doing the open lightning round you are more then welcome to. These are two that have bubbled up from past sessions.
+### OER / Open Curriculum specification
+Alex Boyce, Katrina Wehr, and Michael Collins have been exploring an open curriculum specification which go beyond traditional Open educational resources (OER). The Open Curriculum spec would allow for easier ingestion of open materials into any number of CMS/LMS solutions.
 ### Outcomes
-- Better understanding of the process we engage in for this
-- Show solution that Smeal, Eberly, A&A are working towards
-- Get a better understanding of Git and why we all need to get on it
+- Learn about this specification in development
+- Help inform what pedagogical considerations there are for open curriculum
+- Start playing with organizational structures / UML diagraming the nessecary components and structure for this
 
-## Engage (30+ min)
-H5P is a transformational tool that will increasingly be getting more attention in higher education.
-It's effectively, HTML5 based authorware and ELMS:LN / Drupal already have built in support for it so many in attendence will have access to be able to run locally with what we review.
-For those not, the great thing about H5P is its intended to be created in a CMS but then shared / embedded elsewhere. So imagine an interactive asset managmenet system and then you embed the by-products in Canvas, ELMS, static HTML; it no longer matters where it goes!
-
-The critical different between this and all tools in the history of authorware:
-- the platform itself is open source / deployed locally
-- the products created are open source (and html5 which most others still aren't)
-- The interactions are overlayed on media, not directly embedded in it (so you can swap out a tutorail video as 1 example)
-How can we use this tool effectively? What ideas can our maker community bring to the table so we can all learn together how to use this and what can be done with it.
+### H5P - Interactive multimedia builder
+Many in DIG and around PSU have been buzzing about a technology called H5P. Bryan Ollendyke will help people register accounts on h5p.org in order to play with the tool. We'll envision how we could start augmenting existing courses with this technology (an HTML5 authorware built directly into CMSs).
 ### Outcomes
 - Learn about H5P by playing and creating in it
 - Gain insight into the ideas we all have for interactivity
 - Have an interactive item you can demonstrate in your current CMS / LMS context to take back to show others
 - Discuss how to address accessibility of things like this
+- Give the ELMSLN / other teams some guidelines / roadmap as to what to account for and examples
+## Regroup (~20 min)
+Some show and tell of what was produced.
